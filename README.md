@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Tu He from @trochoilien
-- 👀 I’m interested in game design and development
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on my games
-- 📫 How to reach me https://www.youtube.com/channel/UCkNCBsLOH4MnaHG5fLPSwVA
+- 👋 Xin Chào! Đây là Trò Chơi Liền
+- 👀 I’m interested in game development and design
+- 🌱 I’m currently using Unity and C#
+- 💞️ This is my Github page
+- 📫 Find me on other platforms:
+  * https://www.tiktok.com/@trochoilien
+  * https://www.youtube.com/channel/UCkNCBsLOH4MnaHG5fLPSwVA
+  * https://www.facebook.com/Trochoilien
 
 <!---
 trochoilien/trochoilien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
